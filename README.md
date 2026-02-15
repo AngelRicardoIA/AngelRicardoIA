@@ -27,14 +27,12 @@ Soy un desarrollador apasionado por la creación de experiencias interactivas y 
   <h4>🚀 Game Development</h4>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 
   <h4>💻 Software Engineering & Mobile</h4>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -46,15 +44,6 @@ Soy un desarrollador apasionado por la creación de experiencias interactivas y 
 |:---:|:---:|
 | **[Ver mis Juegos en Google Play](https://play.google.com/store/apps/dev?id=9029518741195342802)** | **[Calculadora Desktop (Swing)](https://github.com/AngelRicardoIA/Calculadora-Java-Swing)** |
 | *Títulos publicados bajo el sello de Darick Studio.* | *Aplicación de escritorio robusta con manejo de excepciones y diseño modular.* |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelRicardoIA&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRicardoIA&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ---
 <div align="center">
