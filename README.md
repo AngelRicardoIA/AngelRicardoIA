@@ -5,7 +5,6 @@
   ### 🎮 Indie Game Developer & Software Engineering Student
   
   [![Portfolio](https://img.shields.io/badge/Darick_Studio-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9029518741195342802)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_TU_LINK_DE_LINKEDIN)
 
 </div>
 
