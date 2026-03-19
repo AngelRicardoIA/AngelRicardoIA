@@ -1,49 +1,43 @@
 <div align="center">
-
-  # Hola, soy Angel Ricardo 👋
+  # Hola, soy Angel Ricardo 
   
-  ### 🎮 Indie Game Developer & Software Engineering Student
+  ### Junior Software Developer & Indie Game Dev
   
-  [![Portfolio](https://img.shields.io/badge/Darick_Studio-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9029518741195342802)
-
+  [![Portfolio](https://img.shields.io/badge/Darick_Games-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9029518741195342802)
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👾 Sobre mí
 
-Soy un desarrollador apasionado por la creación de experiencias interactivas y soluciones de software robustas.
+Soy estudiante de Ingeniería en Desarrollo de Software y un desarrollador orientado a resultados. Mi enfoque no es reinventar la rueda desde cero, sino integrar, resolver y publicar. 
 
-* 🕹️ **Game Dev Veteran:** Cuento con **+4 años de experiencia** desarrollando videojuegos en **Unity (C#)**. Fundador de **Darick Studio**, con múltiples títulos publicados en la Google Play Store.
-* 🎓 **Ingeniero en Formación:** Actualmente cursando la Ingeniería en Desarrollo de Software, expandiendo mis horizontes hacia la arquitectura de software, patrones de diseño y desarrollo backend.
-* 📱 **Aprendizaje Actual:** Me estoy especializando en desarrollo móvil nativo con **Android Studio & Kotlin** y fortaleciendo mis habilidades en **Java Enterprise**.
+* 🎮 **Indie Dev & Publicación:** Soy co-creador del estudio independiente **Darick Games** junto a mi amigo Darío Medina. Toda mi experiencia práctica se centra en llevar videojuegos desde la idea hasta su lanzamiento en la Google Play Store usando Unity (C#). Mi mayor fortaleza es el *troubleshooting*, adaptar código apoyado en documentación y la integración de SDKs (AdMob, Play Games) para hacer que las cosas funcionen en producción.
+* 📱 **Mi meta actual:** Estoy haciendo la transición hacia el desarrollo móvil nativo. Mi enfoque principal ahora mismo es dominar **Kotlin** en Android Studio para expandir mis capacidades dentro del ecosistema móvil.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-  <h4>🚀 Game Development</h4>
+  <h4>🚀 Game Development (Integración & Deploy)</h4>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-  <h4>💻 Software Engineering & Mobile</h4>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <h4>💻 Mobile & Control de Versiones</h4>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </div>
 
 ---
 
 ### 🏆 Proyectos Destacados
 
-| 🎮 **Game Dev (Unity)** | 💻 **Software Eng (Java/Kotlin)** |
-|:---:|:---:|
-| **[Ver mis Juegos en Google Play](https://play.google.com/store/apps/dev?id=9029518741195342802)** | **[Calculadora Desktop (Swing)](https://github.com/AngelRicardoIA/Calculadora-Java-Swing)** |
-| *Títulos publicados bajo el sello de Darick Studio.* | *Aplicación de escritorio robusta con manejo de excepciones y diseño modular.* |
+| 🎮 **Juegos Publicados (Darick Games)** |
+|:---:|
+| **[Rancho Invasor, Detector de nahuales, Kitty tennis](https://play.google.com/store/apps/dev?id=9029518741195342802)** |
+| *Desarrollo integral, monetización y despliegue en Google Play Store.* |
 
 ---
 <div align="center">
