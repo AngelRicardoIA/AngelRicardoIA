@@ -10,7 +10,7 @@
 
 ### 👾 Sobre mí
 
-Soy estudiante de Ingeniería en Desarrollo de Software y un desarrollador orientado a resultados. Mi enfoque no es reinventar la rueda desde cero, sino integrar, resolver y publicar. 
+Soy estudiante de Ingeniería en Desarrollo de Software y un desarrollador orientado a resultados. Mi enfoque no es integrar, resolver y publicar. 
 
 * 🎮 **Indie Dev & Publicación:** Soy co-creador del estudio independiente **Darick Games** junto a mi amigo Darío Medina. Toda mi experiencia práctica se centra en llevar videojuegos desde la idea hasta su lanzamiento en la Google Play Store usando Unity (C#). Mi mayor fortaleza es el *troubleshooting*, adaptar código apoyado en documentación y la integración de SDKs (AdMob, Play Games) para hacer que las cosas funcionen en producción.
 * 📱 **Mi meta actual:** Estoy haciendo la transición hacia el desarrollo móvil nativo. Mi enfoque principal ahora mismo es dominar **Kotlin** en Android Studio para expandir mis capacidades dentro del ecosistema móvil.
