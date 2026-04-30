@@ -1,45 +1,44 @@
 <div align="center">
-  # Hola, soy Angel Ricardo 
+  # Hola, soy Angel Ricardo
   
-  ### Junior Software Developer & Indie Game Dev
+  ### Estudiante de Ingeniería en Software | Desarrollo móvil y videojuegos
   
-  [![Portfolio](https://img.shields.io/badge/Darick_Games-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9029518741195342802)
+  <a href="https://play.google.com/store/apps/dev?id=9029518741195342802">
+    <img src="https://img.shields.io/badge/Darick_Games-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 👾 Sobre mí
+### Sobre mí
 
-Soy estudiante de Ingeniería en Desarrollo de Software y llevo 5 años haciendo videojuegos moviles para android. Mi enfoque es integrar, resolver y publicar. 
+Soy estudiante de Ingeniería en Desarrollo de Software y desde hace varios años he estado desarrollando videojuegos móviles para Android. Mi experiencia es más práctica que teórica: me enfoco en hacer que las cosas funcionen, resolver problemas y llevar proyectos hasta publicarlos.
 
-* 🎮 **Indie Dev & Publicación:** Soy co-creador del estudio independiente **Darick Games** junto a mi amigo Darío Medina. Toda mi experiencia práctica se centra en llevar videojuegos desde la idea hasta su lanzamiento en la Google Play Store usando Unity (C#). Mi mayor fortaleza es el *troubleshooting*, adaptar código apoyado en documentación y la integración de SDKs (AdMob, Play Games) para hacer que las cosas funcionen en producción.
-* 📱 **Mi meta actual:** Estoy haciendo la transición hacia el desarrollo móvil nativo. Mi enfoque principal ahora mismo es dominar **Kotlin** en Android Studio para expandir mis capacidades dentro del ecosistema móvil.
+He trabajado principalmente con Unity y C#, donde me ha tocado integrar SDKs, corregir errores en producción y adaptar soluciones usando documentación. Gran parte de lo que sé lo he aprendido desarrollando y resolviendo problemas reales.
+
+Actualmente estoy enfocándome en desarrollo móvil nativo. Estoy aprendiendo Kotlin en Android Studio y reforzando bases como manejo de datos con MySQL para poder construir aplicaciones más completas.
 
 ---
 
-### 🛠️ Tech Stack
+### Tecnologías
+
+- Unity (desarrollo de videojuegos y publicación)
+- C#
+- Kotlin (en aprendizaje)
+- Android Studio
+- MySQL (básico)
+- Git
+
+---
+
+### Proyectos
+
+**Darick Games (Google Play)**
+https://play.google.com/store/apps/dev?id=9029518741195342802
+
+He participado en el desarrollo y publicación de varios juegos móviles, encargándome tanto de la lógica como de la integración de servicios y despliegue.
+
+---
 
 <div align="center">
-  <h4>🚀 Game Development (Integración & Deploy)</h4>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-  <h4>💻 Mobile & Control de Versiones</h4>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 🏆 Proyectos Destacados
-
-| 🎮 **Juegos Publicados (Darick Games)** |
-|:---:|
-| **[Rancho Invasor, Detector de nahuales, Kitty tennis](https://play.google.com/store/apps/dev?id=9029518741195342802)** |
-| *Desarrollo integral, monetización y despliegue en Google Play Store.* |
-
----
-<div align="center">
-  <i>"Live a life you will remember"</i>
-</div>
+  <i>Buscando seguir creciendo como desarrollador y entrar al mundo profesional del software.</i>
