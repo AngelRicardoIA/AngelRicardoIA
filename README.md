@@ -12,23 +12,23 @@
 
 ### Sobre mí
 
-Soy estudiante de Ingeniería en Desarrollo de Software. Desde hace varios años he estado desarrollando videojuegos móviles para Android, donde he aprendido principalmente haciendo: resolviendo errores, integrando servicios y llevando proyectos hasta producción.
+Soy estudiante de Ingeniería en Desarrollo de Software. Desde hace varios años he estado desarrollando videojuegos móviles para Android, donde he aprendido principalmente resolviendo errores, integrando servicios y llevando proyectos hasta producción en Google Play.
 
-Actualmente estoy enfocado en aprender backend con Java y MySQL. Mi objetivo es entender bien cómo funcionan las aplicaciones desde el lado del servidor, manejo de datos y lógica, para poder construir sistemas más completos.
+Actualmente estoy enfocado en aprender backend con Java, Spring boot y MySQL. Mi objetivo es entender bien cómo funcionan las aplicaciones desde el lado del servidor, manejo de datos y lógica, para poder construir sistemas más completos.
 
-Estoy familiarizado con C# por mi experiencia en Unity y actualmente también estoy trabajando con Kotlin en Android Studio. A largo plazo, mi meta es desarrollarme como backend developer y después dar el salto a desarrollo móvil nativo en Android.
+Estoy familiarizado con C# por mi experiencia en Unity y actualmente también aprendo Kotlin en Android Studio. A largo plazo, mi meta es desarrollarme como backend developer y después dar el salto a desarrollo móvil nativo en Android.
 
 ---
 
 ### Tecnologías
 
-- Java (en aprendizaje, enfocado a backend)
-- MySQL (básico)
-- Kotlin (en aprendizaje)
-- C# (experiencia en Unity)
-- Unity (desarrollo y publicación de videojuegos)
+- Java 
+- MySQL 
+- Kotlin 
+- C# 
+- Unity 
 - Android Studio
-- Git
+- Git y GitHub
 
 ---
 
@@ -42,5 +42,5 @@ He participado en el desarrollo y publicación de varios juegos móviles, encarg
 ---
 
 <div align="center">
-  <i>Buscando una oportunidad para seguir aprendiendo y crecer como desarrollador backend.</i>
+  <i>Live a life you will remember.</i>
 </div>
