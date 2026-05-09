@@ -1,46 +1,70 @@
 <div align="center">
-  # Hola, soy Angel Ricardo
-  
-  ### Estudiante de Ingeniería en Software | Enfocado en Backend y desarrollo móvil
-  
-  <a href="https://play.google.com/store/apps/dev?id=9029518741195342802">
-    <img src="https://img.shields.io/badge/Darick_Games-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
+
+# Angel Ricardo
+
+### Ingeniería en Desarrollo de Software  
+Backend • Android • Game Dev
+
+<br>
+
+<a href="https://play.google.com/store/apps/dev?id=9029518741195342802">
+  <img src="https://img.shields.io/badge/Darick_Games-Google_Play-EA7A17?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Android+Developer+in+progress;Game+Developer+with+Unity;Building+projects+since+teenager"/>
+
 </div>
 
 ---
 
-### Sobre mí
+## Sobre mí
 
-Soy estudiante de Ingeniería en Desarrollo de Software. Desde hace varios años he estado desarrollando videojuegos móviles para Android, donde he aprendido principalmente resolviendo errores, integrando servicios y llevando proyectos hasta producción en Google Play.
+Soy estudiante de Ingeniería en Desarrollo de Software y desde hace varios años desarrollo videojuegos móviles para Android.
 
-Actualmente estoy enfocado en aprender backend con Java, Spring boot y MySQL. Mi objetivo es entender bien cómo funcionan las aplicaciones desde el lado del servidor, manejo de datos y lógica, para poder construir sistemas más completos.
+Gran parte de lo que sé lo he aprendido construyendo proyectos reales, resolviendo errores, integrando servicios y publicando aplicaciones en Google Play.
 
-Estoy familiarizado con C# por mi experiencia en Unity y actualmente también aprendo Kotlin en Android Studio. A largo plazo, mi meta es desarrollarme como backend developer y después dar el salto a desarrollo móvil nativo en Android.
+Actualmente estoy enfocado en backend con Java, Spring Boot y MySQL, buscando entender mejor arquitectura, APIs, lógica de negocio y manejo de datos.
 
----
-
-### Tecnologías
-
-- Java 
-- MySQL 
-- Kotlin 
-- C# 
-- Unity 
-- Android Studio
-- Git y GitHub
+También tengo experiencia con C# gracias a Unity y actualmente estoy aprendiendo Kotlin en Android Studio para desarrollo móvil nativo.
 
 ---
 
-### Proyectos
+## Tecnologías
 
-**Darick Games (Google Play)**
-https://play.google.com/store/apps/dev?id=9029518741195342802
+<div align="center">
 
-He participado en el desarrollo y publicación de varios juegos móviles, encargándome tanto de la lógica como de la integración de servicios y despliegue en tienda.
+![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-D97706?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-EA580C?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-F97316?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C2410C?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-9A3412?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-F59E0B?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+## Proyectos
+
+### Darick Games
+
+Desarrollo y publicación de videojuegos móviles para Android.
+
+- Integración de servicios
+- Lógica de juego
+- Publicación en Google Play
+- Optimización para dispositivos móviles
+- Desarrollo con Unity y C#
+
+🔗 https://play.google.com/store/apps/dev?id=9029518741195342802
 
 ---
 
 <div align="center">
-  <i>Live a life you will remember.</i>
+
+### “Live a life you will remember.”
+
 </div>
