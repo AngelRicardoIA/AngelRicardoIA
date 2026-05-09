@@ -19,18 +19,6 @@ Backend • Android • Game Dev
 
 ---
 
-## Sobre mí
-
-Soy estudiante de Ingeniería en Desarrollo de Software y desde hace varios años desarrollo videojuegos móviles para Android.
-
-Gran parte de lo que sé lo he aprendido construyendo proyectos reales, resolviendo errores, integrando servicios y publicando aplicaciones en Google Play.
-
-Actualmente estoy enfocado en backend con Java, Spring Boot y MySQL, buscando entender mejor arquitectura, APIs, lógica de negocio y manejo de datos.
-
-También tengo experiencia con C# gracias a Unity y actualmente estoy aprendiendo Kotlin en Android Studio para desarrollo móvil nativo.
-
----
-
 ## Tecnologías
 
 <div align="center">
@@ -44,6 +32,16 @@ También tengo experiencia con C# gracias a Unity y actualmente estoy aprendiend
 ![Android Studio](https://img.shields.io/badge/Android_Studio-F59E0B?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
+
+## Sobre mí
+
+Soy estudiante de Ingeniería en Desarrollo de Software y desde hace varios años desarrollo videojuegos móviles para Android.
+
+Gran parte de lo que sé lo he aprendido construyendo proyectos reales, resolviendo errores, integrando servicios y publicando aplicaciones en Google Play.
+
+Actualmente estoy enfocado en backend con Java, Spring Boot y MySQL, buscando entender mejor arquitectura, APIs, lógica de negocio y manejo de datos.
+
+También tengo experiencia con C# gracias a Unity y actualmente estoy aprendiendo Kotlin en Android Studio para desarrollo móvil nativo.
 
 ---
 
