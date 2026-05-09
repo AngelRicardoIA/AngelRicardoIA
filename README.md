@@ -13,7 +13,7 @@ Backend • Android • Game Dev
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Android+Developer+in+progress;Game+Developer+with+Unity;Building+projects+since+teenager"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Android+Developer+in+progress;Game+Developer+with+Unity;"/>
 
 </div>
 
